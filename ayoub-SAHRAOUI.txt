@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7EE0-4B71
+
+ Directory of C:\Users\Redwi\Documents\Local\App1
+
+16/03/2024  12:13    <DIR>          .
+16/03/2024  11:51    <DIR>          ..
+16/03/2024  12:13                 0 ayoub-SAHRAOUI.txt
+16/03/2024  12:08                12 dev1.txt
+16/03/2024  12:06                18 f11.txt
+16/03/2024  11:52               351 file1.txt
+16/03/2024  11:52               398 file2.txt
+16/03/2024  11:52               445 file3.txt
+16/03/2024  11:52               492 file4.txt
+16/03/2024  11:52               539 file5.txt
+               8 File(s)          2,255 bytes
+               2 Dir(s)  242,985,852,928 bytes free
