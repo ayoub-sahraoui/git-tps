@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7EE0-4B71
+
+ Directory of C:\Users\Redwi\Documents\Local\App1
+
+16/03/2024  11:52    <DIR>          .
+16/03/2024  11:51    <DIR>          ..
+16/03/2024  11:52                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  243,976,912,896 bytes free
